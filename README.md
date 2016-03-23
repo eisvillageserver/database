@@ -1,5 +1,7 @@
 # database
 
+NOTE: This repository is no longer updated, all relevant code is moved to INTEGRATION
+
 This database repository contains the functionality to SYNC our LOCAL server with the CLOUD server in terms of file metadata and the actual files
 
 ## Installation
